@@ -14,3 +14,16 @@ Task 3: Add the following functions to the class:
 	c. To display all the details
 
 Task 4: Create a console application to accept the data about participants, and create the object. The console application should call the appropriate functions to calculate the Total Marks and Percentage. And then Display the percentage.
+
+-------------------------------------------------------------------------------------------------
+Exercise 2:
+Create a class in the existing library project named Seller. Create the following variables are follows:
+sellerId:string, sellerName:string, sellerIdCount:int
+Create the following methods:
+Static constructor- Seller( )
+The static variable ‘sellerIdCount’ should be initialized to 1001.
+Default constructor- Seller( )
+The ‘sellerId’ should start with ‘S1001’ and should be incremented by 1 when a new object is created with the help of ‘sellerIdCount’. 
+Eg: For the first seller the ‘SellerId’ should be S1001, for the second seller the ‘SellerId’ should be S1002 and so on.
+
+Create a console application and invoke the constructors.
