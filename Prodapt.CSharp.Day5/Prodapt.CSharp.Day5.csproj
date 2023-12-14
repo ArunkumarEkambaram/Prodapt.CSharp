@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     
-    <StartupObject>Prodapt.CSharp.Day5.Example2</StartupObject>
+    <StartupObject>Prodapt.CSharp.Day5.Product</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -27,6 +27,8 @@
             Console.WriteLine() ;
             ExecuteClass obj = new ExecuteClass();
             obj.Manipulate();
+
+            Example4 obj4 = new Example4();
         }
     }
 

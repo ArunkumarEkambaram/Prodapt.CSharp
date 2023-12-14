@@ -9,6 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Day5", "Prod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Library", "Prodapt.CSharp.Library\Prodapt.CSharp.Library.csproj", "{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{8A022C08-030F-42DE-B4E9-5B1ECDE66C5B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\2023\Prodapt\Exercises\C#Day5.txt = ..\..\..\..\2023\Prodapt\Exercises\C#Day5.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
