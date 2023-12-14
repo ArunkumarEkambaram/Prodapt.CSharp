@@ -2,7 +2,7 @@
 Corporate university wants to maintain the information about participants scores in various modules. 
 Write a program to store the details of the marks scored in various modules.
 
-Task 1: Create a library project and define a class called Participant. Define the private members and public properties as follows:
+Task 1: Create a library project and define a class called Participant. Create the following variables as follow:
 	EmpId, Name, Company Name, FoundationMarks, WebBasicMarks, DotNetMarks, Total Marks, ObtainedMarks, Percentage
 	Initialise the Total Marks to 300. ObtainedMarks and Percentage are calculated fields.
 
