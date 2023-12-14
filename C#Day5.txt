@@ -1,0 +1,17 @@
+Corporate university wants to maintain the information about participants scores in various modules. 
+Write a program to store the details of the marks scored in various modules.
+
+Task 1: Create a library project and define a class called Participant. Define the private members and public properties as follows:
+	EmpId, Name, Company Name, FoundationMarks, WebBasicMarks, DotNetMarks, Total Marks, ObtainedMarks, Percentage
+	Initialise the Total Marks to 300. ObtainedMarks and Percentage are calculated fields.
+
+Task 2: Add 3 constructors, one Default, one parameterised to initialize the members and one static constructor to initialise the company Name to “Corporate Unniversity”
+
+Task 3: Add the following functions to the class:
+	a. To calculate Total Marks.
+	b. To calculate the percentage.
+	c. To return the percentage
+
+Task 4: Create a console application to accept the data about participants, and create the object. The console application should call the appropriate functions to calculate the Total Marks and Percentage. And then Display the percentage.
+
+Task 5: Modify the class created above to valide the marks. Write the validators in properties. The valid range is 0 to 100. If any invalid value is passed, then assign 0 to that module. Later, you can create Exception classes and raise the exception in case of Invalid data
