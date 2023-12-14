@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Day4", "..\..\..\..\2023\Prodapt\C#\Prodapt.CSharp\Prodapt.CSharp.Day4\Prodapt.CSharp.Day4.csproj", "{1710FB4D-075C-4A1B-BB69-369B1887B192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Day4", "Prodapt.CSharp.Day4\Prodapt.CSharp.Day4.csproj", "{1710FB4D-075C-4A1B-BB69-369B1887B192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodapt.CSharp.Day5", "Prodapt.CSharp.Day5\Prodapt.CSharp.Day5.csproj", "{6AF88C04-BBB4-415F-9830-4FC033AA3B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Day5", "Prodapt.CSharp.Day5\Prodapt.CSharp.Day5.csproj", "{6AF88C04-BBB4-415F-9830-4FC033AA3B75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Library", "Prodapt.CSharp.Library\Prodapt.CSharp.Library.csproj", "{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6AF88C04-BBB4-415F-9830-4FC033AA3B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF88C04-BBB4-415F-9830-4FC033AA3B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF88C04-BBB4-415F-9830-4FC033AA3B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
