@@ -11,6 +11,6 @@ Task 2: Add 3 constructors, one Default, one parameterised to initialize the mem
 Task 3: Add the following functions to the class:
 	a. To calculate Total Marks.
 	b. To calculate the percentage.
-	c. To return the percentage
+	c. To display all the details
 
 Task 4: Create a console application to accept the data about participants, and create the object. The console application should call the appropriate functions to calculate the Total Marks and Percentage. And then Display the percentage.
