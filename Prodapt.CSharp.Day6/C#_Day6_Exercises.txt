@@ -1,0 +1,22 @@
+﻿Exercise 1:
+Write a program that accepts integer array and an integer. List all the elements in the array that are greater than the value of given integer. Print the result in descending order.
+
+Sample Input 1:
+input1: [1, 4, 7, 3, 9, 15, 24]
+input2: 17
+
+Sample Output 1: [24]
+
+Sample Input 2:
+input1: [4, 8, 2, 6, 5, 12]
+input2: 5
+
+Sample Output 2: [12, 8, 6]
+
+create a class library  with a method GetElements() which accepts an integer array and the integer as input and returns an integer array. 
+If there is no element found in input1, then store -1 to the first element of output array.
+Create a console application which would get the input and call the method GetElements() present in the class library. If the return value is -1 then, print "No element found".
+
+-----------------------------------------------------
+
+
