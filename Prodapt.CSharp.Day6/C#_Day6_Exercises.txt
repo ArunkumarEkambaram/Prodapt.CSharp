@@ -18,5 +18,44 @@ If there is no element found in input1, then store -1 to the first element of ou
 Create a console application which would get the input and call the method GetElements() present in the class library. If the return value is -1 then, print "No element found".
 
 -----------------------------------------------------
+Exercise 2:
+Write a program that gets the count of elements in input1 list that starts with the character passed in input2 irrespective of case. Print the count.
 
+Business Rule:
+	1. If there is no element that start with the given char in input1, then return -1.
+	2. Only alphabets should be given in input1 string else return -2.
+
+Create a class in class library with a method GetCount which accepts the size of the string array, string array and a character. The return type (Integer) should return count. Follow the Business rules.
+
+Create a Class CountApp in Console Application which would be used to accept the size of the array, the array elements and a character, and call the static method present in UserProgramCode.
+
+Input and Output Format:
+Input consists of an integer, which corresponds to the size of the array, a string array, and a character.
+Output consists of an Integer(final count), or a String(“No elements Found” if -1 is returned or “Only alphabets should be given” if -2 is returned.
+
+Refer sample output for formatting specifications.
+Sample Input 1:
+3
+abc
+Apple
+Mango
+a
+Sample Output 1:
+2
+
+Sample Input 2:
+2
+goods
+bads
+a
+Sample Output 2:
+No elements Found
+
+Sample Input 3:
+2
+good$
+bad$
+a
+Sample Output 3:
+Only alphabets should be given
 
