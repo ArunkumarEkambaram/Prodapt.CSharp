@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Day5", "Prod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.CSharp.Library", "Prodapt.CSharp.Library\Prodapt.CSharp.Library.csproj", "{5AEAA7B3-F2C3-4D7A-B075-6C498016E4F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodapt.ExerciseLibrary", "Prodapt.ExerciseLibrary\Prodapt.ExerciseLibrary.csproj", "{3E65E5F5-9401-478F-BEEC-1D97561D0777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prodapt.ExerciseLibrary", "Prodapt.ExerciseLibrary\Prodapt.ExerciseLibrary.csproj", "{3E65E5F5-9401-478F-BEEC-1D97561D0777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodapt.CSharp.Day6", "Prodapt.CSharp.Day6\Prodapt.CSharp.Day6.csproj", "{7864CD07-D87B-4F4F-832B-A04AAE4C73B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3E65E5F5-9401-478F-BEEC-1D97561D0777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E65E5F5-9401-478F-BEEC-1D97561D0777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E65E5F5-9401-478F-BEEC-1D97561D0777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7864CD07-D87B-4F4F-832B-A04AAE4C73B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7864CD07-D87B-4F4F-832B-A04AAE4C73B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7864CD07-D87B-4F4F-832B-A04AAE4C73B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7864CD07-D87B-4F4F-832B-A04AAE4C73B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
