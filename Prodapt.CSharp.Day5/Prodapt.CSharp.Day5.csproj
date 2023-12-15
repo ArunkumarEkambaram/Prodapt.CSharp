@@ -5,7 +5,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     
-    <StartupObject>Prodapt.CSharp.Day5.Product</StartupObject>
+    <StartupObject>Prodapt.CSharp.Day5.ParticipantsApp</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prodapt.ExerciseLibrary\Prodapt.ExerciseLibrary.csproj" />
+  </ItemGroup>
 
 </Project>
